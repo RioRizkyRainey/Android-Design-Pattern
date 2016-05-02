@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pattern</string>
+    <string name="observer_pattern">Observer Pattern</string>
+
+    <string-array name="list">
+        <item>Observer Pattern</item>
+    </string-array>
+</resources>
